@@ -4,7 +4,6 @@ import { createRoot } from 'react-dom/client'
 
 const Home = () => {
   const slides = [
-    'PPT-0.jpg',
     'PPT-1.jpg',
     'PPT-2.jpg',
     'PPT-3.jpg',
