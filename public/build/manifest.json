@@ -1,0 +1,25 @@
+{
+  "resources/css/app.css": {
+    "file": "app.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/Home.jsx": {
+    "file": "assets/Home-DlwDI04B.js",
+    "name": "Home",
+    "src": "resources/js/Home.jsx",
+    "isEntry": true,
+    "imports": [
+      "resources/js/Utils/CreateReactScript.jsx"
+    ]
+  },
+  "resources/js/Utils/CreateReactScript.jsx": {
+    "file": "assets/CreateReactScript-DEzhbPIc.js",
+    "name": "CreateReactScript",
+    "src": "resources/js/Utils/CreateReactScript.jsx",
+    "isEntry": true,
+    "css": [
+      "CreateReactScript.css"
+    ]
+  }
+}
